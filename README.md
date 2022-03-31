@@ -1,16 +1,11 @@
-### Hi there 👋
+<h2> Hi, I'm finalblast 👋</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=finalblast&show_icons=true&theme=radical" width="380">
+<p><em>Full Stack Developerrrrrr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+</em></p>
 
-<!--
-**finalblast/finalblast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[[GitHub finalblast]](https://github.com/finalblast)
+<br>
+[[Facebook finalblast]](https://facebook.com/finalblast)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&layout=compact)](https://github.com/finalblast)
