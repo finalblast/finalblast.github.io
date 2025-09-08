@@ -1,4 +1,4 @@
-<h2> Hi, I'm finalblast 👋</h2>
+<h2> Hi, I'm Nam (Nick) N. HUYNH 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=finalblast&show_icons=true&theme=radical" width="380">
 <p><em>Full Stack Developerrrrrr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
