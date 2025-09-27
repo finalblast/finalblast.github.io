@@ -1,5 +1,4 @@
-<h2> Hi, I'm Nam (Nick) N. HUYNH 👋</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=finalblast&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=finalblast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" width="380">
 <p><em>Full Stack Developerrrrrr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
@@ -8,4 +7,5 @@
 [[Facebook finalblast]](https://facebook.com/finalblast)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&layout=compact)](https://github.com/finalblast)
+![finalblast's Streak](https://github-readme-streak-stats.herokuapp.com/?user=finalblast&theme=radical&hide_border=false)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&theme=radical&show_icons=true&hide_border=false" width="380">
