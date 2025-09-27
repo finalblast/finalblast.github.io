@@ -8,4 +8,5 @@
 <br>
 <br>
 ![finalblast's Streak](https://github-readme-streak-stats.herokuapp.com/?user=finalblast&theme=radical&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=finalblast&layout=compact&&theme=radical&link=https://www.github.com/finalblast">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&theme=radical&show_icons=true&hide_border=false" width="380">
