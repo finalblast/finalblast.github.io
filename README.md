@@ -10,13 +10,13 @@
 
 <p align="center"> <a href="https://twitter.com/mr_namhuynh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_namhuynh?logo=twitter" alt="mr_namhuynh" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working as a **remote engineer**</p>
+<p align="center">- 🔭 I’m currently working as a <strong>remote engineer</strong></p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://www.vngodev.com/#projects](https://www.vngodev.com/#projects)</p>
+<p align="center">- 👨‍💻 All of my projects are available at <a href="https://www.vngodev.com/#projects">https://www.vngodev.com/#projects</a></p>
 
-<p align="center">- 💬 Ask me about **AI, Laravel, Vue**</p>
+<p align="center">- 💬 Ask me about <strong>AI, Laravel, Vue</strong></p>
 
-<p align="center">- 📫 How to reach me **nick@vngodev.com**</p>
+<p align="center">- 📫 How to reach me <strong>nick@vngodev.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
