@@ -4,7 +4,7 @@
 <p align="center"><a href="https://nam.is-a.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH" alt="Nam (Nick) N. HUYNH" /></a></p>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/9843565?v=4" alt="profile" width="200" style="clip-path: circle();" /> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 <h3 align="center">An experienced engineer with more than 10 years in software development. With work on web application, database and mobile application. Competence in PHP, Laravel, Lumen, Yii2, Javascript, Vue, jQuery, HTML/CSS, Bootstrap, Android/Java, Python, Django, MySQL, SQL Server, SQLite and Postgresql include 1 year working with AI and tool such as Cursor / ChatGPT / Claude / CodeRabbit.</h3>
-<p align="center"> <a href="https://nam.is-a.dev"><img src="https://github-profile-trophy.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15&theme=radical" alt="finalblast" /></a> </p>
+<p align="center"> <a href="https://nam.is-a.dev"><img src="https://github-profile-trophy.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15" alt="finalblast" /></a> </p>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
@@ -32,4 +32,4 @@
 
 <p align="center"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=finalblast&theme=radical&link=https://www.github.com/finalblast"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=finalblast&link=https://www.github.com/finalblast"></p>
