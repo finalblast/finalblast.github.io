@@ -17,6 +17,15 @@ jobs:
       - uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
-          plugin_activity: yes
-          plugin_stackoverflow: yes
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          config_theme: dark
+
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_stars: yes
+          plugin_topics: yes
+          plugin_habits: yes
+          plugin_reactions: yes
