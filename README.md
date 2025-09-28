@@ -1,6 +1,6 @@
 <p><em>Full Stack Developerrrrrr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<h1 align="center">Hi 👋, I'm Nam (Nick) N. HUYNH</h1>
+[<h1 align="center">Hi 👋, I'm Nam (Nick) N. HUYNH</h1>](https://readme-typing-svg.demolab.com/demo/?lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH)
 <p align="center"><img src="https://avatars.githubusercontent.com/u/9843565?v=4" alt="profile" width="200" style="clip-path: circle();" /> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 <h3 align="center">An experienced engineer with more than 10 years in software development. With work on web application, database and mobile application. Competence in PHP, Laravel, Lumen, Yii2, Javascript, Vue, jQuery, HTML/CSS, Bootstrap, Android/Java, Python, Django, MySQL, SQL Server, SQLite and Postgresql include 1 year working with AI and tool such as Cursor / ChatGPT / Claude / CodeRabbit.</h3>
 
