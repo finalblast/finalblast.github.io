@@ -10,6 +10,8 @@
 
 <p align="center"> <a href="https://twitter.com/mr_namhuynh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_namhuynh?logo=twitter" alt="mr_namhuynh" /></a> </p>
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <p align="center">- 🔭 I’m currently working as a <strong>remote engineer</strong></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://www.vngodev.com/#projects">https://www.vngodev.com/#projects</a></p>
