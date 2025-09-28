@@ -17,15 +17,14 @@ jobs:
       - uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
-          config_theme: dark
-
-          # Plugins
-          plugin_isocalendar: yes
+          # theme / dark mode
+          config_theme: github_dark
+          config_output: svg
+          # core sections (if supported)
+          base: header, activity, community, repositories, metadata, projects
+          # plugins (if supported)
           plugin_languages: yes
+          plugin_projects: yes
+          plugin_topics: yes
           plugin_followup: yes
           plugin_stars: yes
-          plugin_topics: yes
-          plugin_habits: yes
-          plugin_reactions: yes
