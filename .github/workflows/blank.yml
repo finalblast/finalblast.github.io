@@ -18,3 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
+          plugin_activity: yes
+          plugin_stackoverflow: yes
