@@ -1,20 +1,18 @@
 <p align="right"><em>Full Stack Developerrrrrr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=finalblast&label=Profile%20views&color=0e75b6&style=flat" alt="finalblast" /> <a href="https://twitter.com/mr_namhuynh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_namhuynh?logo=twitter" alt="mr_namhuynh" /></a></p>
 
-<p align="center"><a href="https://finalblast.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH" alt="Nam (Nick) N. HUYNH" /></a></p>
+<p align="center"><a href="https://nam.is-a.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH" alt="Nam (Nick) N. HUYNH" /></a></p>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/9843565?v=4" alt="profile" width="200" style="clip-path: circle();" /> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 <h3 align="center">An experienced engineer with more than 10 years in software development. With work on web application, database and mobile application. Competence in PHP, Laravel, Lumen, Yii2, Javascript, Vue, jQuery, HTML/CSS, Bootstrap, Android/Java, Python, Django, MySQL, SQL Server, SQLite and Postgresql include 1 year working with AI and tool such as Cursor / ChatGPT / Claude / CodeRabbit.</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15&theme=radical" alt="finalblast" /></a> </p>
+<p align="center"> <a href="https://nam.is-a.dev"><img src="https://github-profile-trophy.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15&theme=radical" alt="finalblast" /></a> </p>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 <p align="center">- 🔭 I’m currently working as a <strong>remote engineer</strong></p>
 
-<p align="center">- 👨‍💻 All of my projects are available at <a href="https://www.vngodev.com/#projects">https://www.vngodev.com/#projects</a></p>
-
 <p align="center">- 💬 Ask me about <strong>AI, Laravel, Vue</strong></p>
 
-<p align="center">- 📫 How to reach me <strong>nick@vngodev.com</strong></p>
+<p align="center">- 📫 How to reach me <strong>nam@is-a.dev</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -34,11 +32,4 @@
 
 <p align="center"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&show_icons=true&theme=radical&langs_count=6&layout=compact"></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=finalblast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical"></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=finalblast&theme=radical&link=https://www.github.com/finalblast"></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=finalblast&theme=radical"></p>
-
