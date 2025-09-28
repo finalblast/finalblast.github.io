@@ -21,17 +21,14 @@ jobs:
           config_theme: github_dark
           config_output: svg
           # core sections (if supported)
-          base: header, activity, community, repositories, metadata, projects
+          base: header, activity, community, repositories, metadata
           # plugins (if supported)
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_projects: yes
-          plugin_topics: yes
           plugin_followup: yes
-          plugin_stars: yes
           plugin_licenses: yes
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, os, os-graphs
+          plugin_wakatime_sections: time, languages, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 5594784
