@@ -70,6 +70,27 @@ A comprehensive monitoring solution for website uptime and SSL certificate expir
 
 ---
 
+### [Invoice Generator](https://invoice-generator.finalblast.workers.dev/)
+
+**Professional Invoice Creation Tool**
+
+Create professional invoices in seconds with this easy-to-use invoice generator. Perfect for freelancers, small businesses, and anyone who needs to generate invoices quickly. Features include:
+
+- 📄 Generate professional PDF invoices instantly
+- 🎨 Customizable company and client information with logo upload
+- 💰 Support for multiple currencies (USD, EUR, GBP, JPY, and 20+ more)
+- 📋 Flexible item management with quantity, rate, and automatic totals
+- 🧮 Automatic calculations for subtotal, tax, discount, and total
+- 📝 Additional notes and terms section
+- 🌓 Dark mode support
+- ⚡ Fast and lightweight, built on Cloudflare Workers
+
+**Tech Stack:** Cloudflare Workers, Modern Web Technologies
+
+[![Website](https://img.shields.io/badge/Website-Invoice%20Generator-blue?style=flat-square)](https://invoice-generator.finalblast.workers.dev/)
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -218,3 +239,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </div>
+
