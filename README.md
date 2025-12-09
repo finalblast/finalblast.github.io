@@ -198,7 +198,7 @@ A comprehensive monitoring solution for website uptime and SSL certificate expir
   <a href="https://nam.is-a.dev" target="blank">
     <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30" />
   </a>
-  <a href="mailto:nam@vngodev.com" target="blank">
+  <a href="mailto:nick@vngodev.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
