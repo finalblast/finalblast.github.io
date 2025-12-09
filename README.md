@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/9843565?v=4" alt="profile" width="200" style="clip-path: circle();" />
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes-two.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ---
@@ -159,12 +159,8 @@ A comprehensive monitoring solution for website uptime and SSL certificate expir
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finalblast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalblast&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=finalblast&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=finalblast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=finalblast&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <p align="center">
