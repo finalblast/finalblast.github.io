@@ -91,6 +91,25 @@ Create professional invoices in seconds with this easy-to-use invoice generator.
 
 ---
 
+### [Expiry Watch](https://expiry-watch.com)
+
+**Domain & Certificate Expiry Monitoring**
+
+A comprehensive monitoring solution for tracking domain and certificate expirations. Never miss an important expiry date with automated monitoring and alerts. Features include:
+
+- 🔍 Domain expiry tracking with customizable warning periods
+- 🔒 SSL/TLS certificate expiry monitoring
+- 📊 Monitor multiple domains and certificates
+- 🔔 Automated notifications before expiration
+- ⚙️ Flexible monitoring intervals and settings
+- 📈 Dashboard with expiry status overview
+
+**Tech Stack:** Modern web technologies for reliable monitoring
+
+[![Website](https://img.shields.io/badge/Website-expiry-watch.com-blue?style=flat-square)](https://expiry-watch.com)
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -239,4 +258,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </div>
-
