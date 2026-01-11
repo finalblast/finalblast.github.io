@@ -93,20 +93,24 @@ Create professional invoices in seconds with this easy-to-use invoice generator.
 
 ### [Expiry Watch](https://expiry-watch.com)
 
-**Domain & Certificate Expiry Monitoring**
+**Domain, Certificate & Document Expiry Monitoring Platform**
 
-A comprehensive monitoring solution for tracking domain and certificate expirations. Never miss an important expiry date with automated monitoring and alerts. Features include:
+A comprehensive monitoring solution that helps you stay ahead of domain, SSL certificate, and document expirations. Never miss a critical renewal deadline with automated tracking, intelligent alerts, and detailed insights. Features include:
 
-- 🔍 Domain expiry tracking with customizable warning periods
-- 🔒 SSL/TLS certificate expiry monitoring
-- 📊 Monitor multiple domains and certificates
-- 🔔 Automated notifications before expiration
-- ⚙️ Flexible monitoring intervals and settings
-- 📈 Dashboard with expiry status overview
+- 📄 **Document Expiry Tracking** - Monitor important document expiration dates (licenses, certifications, contracts, insurance, passports, etc.) with customizable warning periods
+- 🔍 **Domain Expiry Tracking** - Monitor domain registration expiration dates with customizable warning periods
+- 🔒 **SSL/TLS Certificate Monitoring** - Track certificate expiration dates across all your domains and subdomains
+- 📊 **Unified Dashboard** - Monitor unlimited domains, certificates, and documents from a single comprehensive dashboard
+- 🔔 **Smart Notifications** - Receive automated alerts via email, Slack, Discord, and other channels before expiration
+- ⚙️ **Flexible Configuration** - Customize monitoring intervals, warning thresholds, and notification preferences for each item type
+- 📈 **Visual Overview** - See expiry status, days remaining, and health indicators for all monitored items
+- 🌐 **Bulk Import** - Easily add multiple domains, certificates, and documents at once
+- 📱 **Mobile-Friendly** - Access your monitoring dashboard from any device
+- 🏷️ **Categorization** - Organize documents and items by type, priority, or custom tags
 
-**Tech Stack:** Modern web technologies for reliable monitoring
+**Tech Stack:** Modern web technologies, RESTful APIs, Real-time monitoring infrastructure
 
-[![Website](https://img.shields.io/badge/Website-expiry-watch.com-blue?style=flat-square)](https://expiry-watch.com)
+[![Website](https://img.shields.io/badge/Website-Expiry%20Watch-blue?style=flat-square)](https://expiry-watch.com)
 
 ---
 
