@@ -114,6 +114,52 @@ A comprehensive monitoring solution that helps you stay ahead of domain, SSL cer
 
 ---
 
+### Stan
+
+**Hostedpbx Customer Portal**
+
+A customer-facing portal for Hostedpbx, giving customers self-service access to manage their hosted PBX services and account details.
+
+---
+
+### Nordace LP
+
+**Landing Page Platform**
+
+A landing page platform used to build and manage marketing pages for Nordace.
+
+---
+
+### AdOp Dashboard
+
+**Ads & Affiliate Tracking Dashboard**
+
+A dashboard for tracking ad campaign performance and affiliate tracking data.
+
+---
+
+### [chatwithai](https://play.google.com/store/apps/details?id=com.namhuynh.chatwithai)
+
+**AI Chat Android App**
+
+A mobile AI chat assistant for Android built with React Native and Expo.
+
+**Tech Stack:** React Native, Expo, OpenAI API
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-chatwithai-blue?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.namhuynh.chatwithai)
+
+---
+
+### [pursea](https://play.google.com/store/apps/details?id=com.namhuynh.pursea)
+
+**Personal Finance App**
+
+A personal finance app for Android to help track spending and manage money.
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-pursea-blue?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.namhuynh.pursea)
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
