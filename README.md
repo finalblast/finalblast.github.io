@@ -285,7 +285,7 @@ A personal finance app for Android to help track spending and manage money.
   <a href="https://github.com/finalblast" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="finalblast" height="30" width="40" />
   </a>
-  <a href="https://www.fiverr.com/s/YR3Bxla" target="blank">
+  <a href="https://www.fiverr.com/nickhuynh00246" target="blank">
     <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="30" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01c947ee845e9feaaf" target="blank">
