@@ -380,7 +380,7 @@ A personal finance app for Android to help track spending and manage money.
 
 <p align="center">
   <a href="https://nam.is-a.dev">
-    <img src="https://github-profile-trophy-lemon-nine.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15&theme=kimbie_dark&no-frame=true" alt="finalblast" />
+    <img src="https://github-profile-trophy-lemon-nine.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15" alt="finalblast" />
   </a>
 </p>
 
