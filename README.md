@@ -1,13 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=110&section=header&text=&fontSize=0" width="100%" />
+
 <p align="right"><em>Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=finalblast&label=Profile%20views&color=0e75b6&style=flat" alt="finalblast" />
-  <a href="https://twitter.com/mr_namhuynh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_namhuynh?logo=twitter" alt="mr_namhuynh" /></a>
+  <img src="https://komarev.com/ghpvc/?username=finalblast&label=Profile%20views&color=D97757&style=flat" alt="finalblast" />
+  <a href="https://twitter.com/mr_namhuynh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_namhuynh?logo=twitter&style=flat&color=D97757&labelColor=191919&logoColor=D97757" alt="mr_namhuynh" /></a>
 </p>
 
 <p align="center">
   <a href="https://nam.is-a.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH" alt="Nam (Nick) N. HUYNH" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=D97757&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nam+(Nick)+N.+HUYNH" alt="Nam (Nick) N. HUYNH" />
   </a>
 </p>
 
@@ -378,7 +380,7 @@ A personal finance app for Android to help track spending and manage money.
 
 <p align="center">
   <a href="https://nam.is-a.dev">
-    <img src="https://github-profile-trophy-lemon-nine.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15" alt="finalblast" />
+    <img src="https://github-profile-trophy-lemon-nine.vercel.app/?username=finalblast&row=2&column=4&margin-w=15&margin-h=15&theme=kimbie_dark&no-frame=true" alt="finalblast" />
   </a>
 </p>
 
@@ -387,8 +389,8 @@ A personal finance app for Android to help track spending and manage money.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=finalblast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=finalblast&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=finalblast&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D97757&icon_color=D97757&text_color=808080"/>
+  <img height="180em" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=finalblast&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=D97757&text_color=808080"/>
 </div>
 
 <p align="center">
@@ -400,7 +402,7 @@ A personal finance app for Android to help track spending and manage money.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finalblast&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finalblast&hide_border=true&bg_color=00000000&color=D97757&line=D97757&point=D97757&area=true&area_color=D97757&title_color=D97757" alt="Contribution Graph" />
 </div>
 
 ---
@@ -430,7 +432,7 @@ A personal finance app for Android to help track spending and manage money.
     <img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="30" />
   </a>
   <a href="https://nam.is-a.dev" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30" />
+    <img align="center" src="https://img.shields.io/badge/Website-D97757?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30" />
   </a>
   <a href="mailto:nick@vngodev.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
@@ -444,11 +446,11 @@ A personal finance app for Android to help track spending and manage money.
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;+Shoot+me+a+message+if+you+want+to+connect!;+Happy+Coding!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&color=D97757&size=22&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks%20for%20visiting%21%20%F0%9F%98%8A;Shoot%20me%20a%20message%20if%20you%20want%20to%20connect%21;Happy%20Coding%21%20%F0%9F%9A%80" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=90&section=footer"/>
 </div>
