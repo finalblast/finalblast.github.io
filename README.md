@@ -402,7 +402,7 @@ A personal finance app for Android to help track spending and manage money.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finalblast&hide_border=true&bg_color=00000000&color=D97757&line=D97757&point=D97757&area=true&area_color=D97757&title_color=D97757" alt="Contribution Graph" />
+  <img src="https://activity-graph-orpin.vercel.app/graph?username=finalblast&hide_border=true&bg_color=00000000&color=D97757&line=D97757&point=D97757&area=true&area_color=D97757&title_color=D97757" alt="Contribution Graph" />
 </div>
 
 ---
